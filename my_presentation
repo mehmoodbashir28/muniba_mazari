@@ -1,0 +1,97 @@
+HTML PRESENTATION OF MY WEBSITE
+
+*doctype html: tag is used to tell that it is used for html coading.
+
+*html: tag is used for to do work of html coading
+
+*head: tag is used for the work of website's title linked file and details about website
+
+*title: tag is used for the name of website which is written on the top 
+
+*link: tag is used to attach another source code of css or java script
+
+*rel: attribute is to tell about another source code's type
+
+*type: attribute is used to tell us about which type of coad is linked
+
+*href: attribute is used to for the name of another source code
+
+*body: tag is used for the all work of website which is being showed on the screen
+
+*div: tag defines a division or a section in an HTML document.
+
+*a: tag is used for link on website
+
+*id: attribute is used to give identification to an element
+
+*title: attribute is to give aditional information of an tag which is written on the pop box
+
+*nav: tag defines a set of navigation links.
+
+*ul: tag is used for unorderd list
+
+*li: tag is used for list items
+
+*class: attribute is used for classification of tags
+
+*h1-h6: tag is used for the headings
+
+*Br: tag is used for breaking lines
+
+*img: tag is used for attaching picture on website
+
+*alt: attribute is used when pic is not avaliable this attribute will guide us about that pic
+
+*target: attribute specifies where to open the linked document
+
+*footer: tag defines a footer for a document or section.
+
+*Strong: tag is used for bolding text
+
+
+
+
+
+CSS PRESENTATION OF MY WEBSITE
+
+body: css will do work on all body of html  
+
+( . dot represent Class and # hashtag represent id ) 
+
+div: css work on division or section of div
+
+ul li: css will do work on ul and li of html 
+
+ul li a: css will work on the links on the list
+
+ul li a:hover : css will work on the bar where hover is being moved 
+
+ul li a.active: css will tell you which link is open on the tab
+
+padding: css used to add space in element's content  ~inside~
+
+margin: css used to add space around elements outside of borders
+
+font-family: css will tell the type of text font
+
+background-color: css will add color on background which you need
+
+margin auto: css will set in the center and remaining space will split in left right margin equally
+
+width: css will set width of tag 
+
+
+height: css will set height of tag 
+
+list-style: css will show list styles
+
+Text-align: css will align the direction which you will tell to do
+
+font-size: css  will tell text content's size
+
+border:css will give border to the content accourding to your direction. 
+
+
+
+
+

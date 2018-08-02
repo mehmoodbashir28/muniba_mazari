@@ -1,0 +1,187 @@
+https://blog.siasat.pk/story-pakistans-iron-lady-muniba-mazari-added-textbooks-thats-exactly-need/
+
+Story Of Iron Lady ~Muniba Mazari~
+
+
+Story Of Pakistan’s ”Iron Lady” Muniba Mazari Is Being Added In Textbooks And That’s Exactly What We Need!
+
+*In a society like ours where women are ‘overprotected’ to an extent that makes them incapable to survive alone, Muniba Mazari continues to break all stereotypes and stun the world by the power of a strong woman.
+
+*However, Muniba didn’t let her circumstances define her worth. She came out stronger and more confident. Not just in Pakistan, she became a figure of strength and determination for the entire world to see and follow.
+
+*Apart from the fact that she has achieved it and deserves it, this change is truly revolutionary. She is the she-roe of current times and we need to talk about the role models who exist in the present more than the past. It is not a disregard for people who have achieved in the past but our youngsters need heroes that they can relate to in present times since a lot has changed.
+
+*We live in the age of the Internet and we assume that everything is as perfect as it appears to be. This assumption especially impacts the vulnerable minds of children and teenagers because realistically our lives aren’t as perfect as the people on the Internet. Making our young generation aware of people like Muniba Mazari will allow them to see the world from a point of view they can relate more. Her story is truly inspiring and shows that if you know where you are headed at and what your goals are, nothing in this world can stop you. After all, at the end, it all starts from within!
+
+index.html coading:-
+
+<!doctype html>
+
+  <html>
+
+	<head>
+	  
+      <title> career. </title>
+            
+      <link rel="stylesheet" type="text/css" href="career.css">
+      
+	</head>
+
+	<body>
+	
+ 		<div class="header">
+        
+       	<a href="http://circlewomen.org/about/" id="logo" target="_blank">
+        
+   		<img src="logo3.png" alt="logo" title="about circle."/>
+        
+   		</a>
+        
+        </div>
+            
+		<nav>
+        
+		<ul>
+        
+			<li><a href="index.html"> Home</a></li>
+            
+  			<li><a href="early-life.html"> story</a></li>
+            
+  			<li><a href="career.html"class="active"> Career</a></li>
+            
+			<li><a href="her_painting.html">Paintings</a></li>
+            
+		</ul>
+        
+		</nav>
+
+		<h2> Career</h2>
+
+		<p> 
+  		 Muniba Mazari is a first wheelchair anchor. She was an occasional anchor and hosted a show on PTV. Mazari was selected as an inspirational woman in 2015 by BBC. Toni&Guy hired her as a model in Pakistan which makes her first wheelchair using model. In 2016, She was featured in the Forbes 30 under 30. Mazari is currently a Brand Ambassador for RYTHM Foundation of QI as well as for UN Women Pakistan. She is a motivational speaker and had participated in various forums and conferences. She is also a CSR head for Chughtai Labs.
+		</p>
+        
+        <br>
+        
+		<h2>  Achivements </h2>
+       
+        <ol>
+        
+   			<li>Muniba proved her worth in countless ways: </li>
+            
+			<li> She is an amazing Painter.</li>
+            
+			<li> She is a Motivational speaker.</li>
+            
+			<li> She is social activist.</li>
+            
+			<li> She is a beautiful Model.</li>
+            
+			<li> She is a TV anchor person.</li>
+            
+			<li> She is an excellent Singer.</li>
+            
+		</ol>
+   
+		<img src="achivements.jpg" alt="early-life" title="early-life"/>
+        
+		<h2 style="color:white"> As An Anchor</h2>
+        
+		<p> 
+   		She is also working as an anchor on PTV. She has the honor of being the first anchor who was on wheelchair. She is also brand ambassador of The Body Shop in Pakistan and a part of Ponds Miracle team.She is going to start her career as a host.
+		</p>
+   
+		<h2> As a Motivational speaker</h2>
+        
+		<p>
+        Muniba Started motivating people through the platform of TED. Her speeches are very impressive and inspiring because they relate to her real experiences. She believes that although how many restrictions are there, your soul must be free. Freedom of soul helps us to overcome all fears and let the hearts shine and dream.
+		</p>
+   
+		<h2> As An Ambassador</h2>
+        
+		<p>
+        The UN entity for Empowered of women and the Gender Equality, has named Muniba Mazari as Pakistan's first female Goodwill ambassador to promote gender equality and the empowerment of wome
+		</p>
+   
+		<h2> As An Activist </h2>
+        
+		<p>
+        Muniba has been an active part of many social compaigns. she has always spread awareness about child violance, gender discrimination etc. she has always worked for children's right and education and guided people against child abuse.
+		</p>
+   
+		<h2> As A Role Model </h2>
+        
+		<p>
+        In every field, she has been a role model for us. she has taught us that when in spite of being paraplegic and disabled she has done miracles through her spirit then why can us? So, instead of making lame excuses about socity, money or conditions we must follow her courage and bravery. Muniba has taught us that boundries exist only in minds and if you are truly passionate about something nothing in this world can stop you from achieving that
+		</p>
+   
+		<img src="achivement1.jpg" alt="early-life" title="early-life"/>
+   
+   		<h2> Modeling </h2>
+        
+		<p>
+        She also did modeling for Tony & Guy. Muniba Mazari has established her own brand, known as Muniba's Canvas. The Slogan of her brand is: "Let Your Walls Wear Colors".
+		</p>   
+        
+        <img src="modeling.jpg" alt="early-life" title="early-life"/>
+        
+        <img src="modeling1.jpg" alt="early-life" title="early-life"/>
+        
+   		<div class="box5">
+        
+		<div class="box6">
+        
+        <h1 title="websites and applications that enable users to create and share content or to participate in social networking."> Social media </h1>
+    
+     	<div class="logos">
+   
+   		<a href="https://www.facebook.com/Muniba.Canvas/" target="_blank">
+        
+   		<img src="fb.png" alt="Facebook-official-page" title="Facebook-official-page" height="50">
+        
+   		</a>
+   
+   		<h4>find muniba on Facebook</h4>
+   
+   		</div>
+   	
+    	<div class="logos">
+   
+   		<a href="https://www.instagram.com/muniba.mazari/?hl=en" target="_blank">
+        
+		<img src="insta.png" alt="Instagram-official-id" title="instagram-official-id" height="50">
+        
+   		</a>
+   
+   		<h4>find muniba on Instagram</h4>
+        
+   
+   		</div>
+   
+   		<div class="logos">
+   
+   		<a href="https://twitter.com/muniba_mazari?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">
+        
+   		<img src="tweeter.png" alt="twitter-official-" title="twitter-official" height="50">
+        
+   		</a>
+   
+   		<h4>find muniba on twitter</h4>
+        
+   		</div>
+        
+   		</div>  
+
+    	</div>
+
+    	</div>
+        
+        
+    	<footer>
+				All Copy Rights Reservered by @mehmood.bashir
+		</footer>
+   
+   
+	</body>
+    
+</html>
