@@ -1,1 +1,1 @@
-# muniba_mazari Un responsive sucess story of muniba mazari, #MyFirstREpo #firstWeb
+Unresponsive sucess story of muniba mazari, basic HTML and CSS. #MyFirstREpo #firstWeb #muniba_mazari
